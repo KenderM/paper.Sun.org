@@ -1,7 +1,7 @@
-# paper.dash.org
-JavaScript Client-Side Dash Wallet Generator
+# paper.SUN.org
+JavaScript Client-Side Sun Wallet Generator
 
-Now Dash addresses and their corresponding private key can be conveniently
+Now Sun addresses and their corresponding private key can be conveniently
 generated in a web browser.
 
 ## Installation
